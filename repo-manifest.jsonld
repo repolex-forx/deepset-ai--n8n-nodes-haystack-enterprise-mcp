@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/deepset-ai/n8n-nodes-haystack-enterprise-mcp/commit/8abb74b3041cbfb1b5fd743128cf61f7186dee96",
       "git:hexsha": "8abb74b3041cbfb1b5fd743128cf61f7186dee96",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/deepset-ai/n8n-nodes-haystack-enterprise-mcp/commit/af5bbef1d4e5bf3e7d387a786cb934c9426e08b8",
