@@ -1,0 +1,44 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/deepset-ai/n8n-nodes-haystack-enterprise-mcp/commit/8abb74b3041cbfb1b5fd743128cf61f7186dee96",
+  "@type": "git:Commit",
+  "git:hexsha": "8abb74b3041cbfb1b5fd743128cf61f7186dee96",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/deepset-ai/n8n-nodes-haystack-enterprise-mcp"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/8abb74b3041cbfb1b5fd743128cf61f7186dee96.nq.gz",
+      "repolex:graphFileSize": 4517
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 40103
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 517
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 686
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 4512
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-08T11:17:36.344110+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
